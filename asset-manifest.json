@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactipl20/static/css/main.e6c13ad2.css",
+    "main.js": "/reactipl20/static/js/main.744486a2.js",
+    "static/js/787.78e24f30.chunk.js": "/reactipl20/static/js/787.78e24f30.chunk.js",
+    "index.html": "/reactipl20/index.html",
+    "main.e6c13ad2.css.map": "/reactipl20/static/css/main.e6c13ad2.css.map",
+    "main.744486a2.js.map": "/reactipl20/static/js/main.744486a2.js.map",
+    "787.78e24f30.chunk.js.map": "/reactipl20/static/js/787.78e24f30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.744486a2.js"
+  ]
+}
