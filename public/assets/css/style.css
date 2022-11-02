@@ -1,0 +1,51 @@
+ul.sub-menu li.activate a {
+        color: #329ED9 !important;
+    }
+
+    .fan .modal-dialog {
+        float: right;
+        right: 70px;
+    }
+
+    .fan .ap-stat-table {
+        width: 100%;
+        background: none;
+    }
+
+    .fan .modal-title {
+        width: 100%;
+        background: none;
+        color: #EF4123;
+        font-weight: 700;
+        font-size: 27px;
+    }
+
+    .fan .nav-item {
+        width: 50%;
+        text-align: center;
+    }
+
+    .fan .nav-pills .nav-link.active,
+    .nav-pills .show>.nav-link {
+        color: #fff;
+        background-color: #EF4123;
+    }
+
+    .fan ul {
+        background: linear-gradient(71.81deg, #18184A 25.64%, #19398A 66.22%, #18184A 114.53%);
+        padding: 3px;
+        border-radius: 7px;
+        overflow: hidden;
+    }
+
+    .fan ul a {
+        color: #fff;
+        font-weight: 700;
+    }
+
+    .fan .modal-header .close {
+        padding: 4px 10px;
+        margin: 0;
+        font-size: 37px;
+        font-weight: normal;
+    }
